@@ -2,3 +2,4 @@ Haidar Resolusi
 -Konsisten untuk belajar programming 
 -Memperdalam penunjang untuk menjadi frontend Engineer
 -Membuat projek projek 
+-Menjadi front end engineer
